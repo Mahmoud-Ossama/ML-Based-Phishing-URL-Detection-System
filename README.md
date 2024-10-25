@@ -27,7 +27,7 @@ SecureLink is an intelligent system that utilizes machine learning techniques to
 ### Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/securelink.git
+git clone https://github.com/Mahmoud-Ossama/ML-Based-Phishing-URL-Detection-System.git
 cd securelink
 ```
 
