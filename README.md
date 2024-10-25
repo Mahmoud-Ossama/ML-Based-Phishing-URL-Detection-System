@@ -44,23 +44,14 @@ pip install -r requirements.txt
 
 ## Project Structure
 ```
-securelink/
-│
+phishing_detection/
 ├── data/
-│   ├── raw/                # Original data files
-│   ├── processed/          # Cleaned and processed data
-│   └── external/           # External data sources
-│
-├── src/
-│   ├── data/              # Data processing scripts
-│   ├── features/          # Feature engineering code
-│   ├── models/            # Model training and prediction
-│   └── visualization/     # Data visualization code
-│
-├── notebooks/             # Jupyter notebooks
-├── tests/                 # Unit tests
-├── models/               # Saved model files
-└── reports/              # Generated analysis reports
+│   ├── legitimate_urls.csv
+│   └── phishing_urls.csv
+├── utils.py          # Helper functions
+├── features.py       # Feature extraction
+├── model.py          # Model training and prediction
+└── main.py          # Main execution script
 ```
 
 ## Usage
