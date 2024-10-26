@@ -118,7 +118,7 @@ pytest tests/
 5. Open a Pull Request
 
 ## Authors
-- Your Name - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- Mahmoud Osama - *Initial work* - (https://github.com/Mahmoud-Ossama)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -126,11 +126,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 - Dataset provided by PhishTank
 - Inspired by research on ML-based phishing detection
-- Thanks to [Your University/Department Name] for project support
+- Thanks to Delta University/Faculty of AI - Cybersecurity Department for project support
 
 ## Contact
-Your Name - your.email@example.com
-Project Link: https://github.com/yourusername/securelink
+Mahmoud Osama - vip.m.osama@gmail.com
+Project Link: https://github.com/Mahmoud-Ossama/ML-Based-Phishing-URL-Detection-System
 
 ## Future Improvements
 - [ ] Implement deep learning models
@@ -144,10 +144,10 @@ Project Link: https://github.com/yourusername/securelink
 If you use this project in your research, please cite:
 ```
 @misc{securelink2024,
-  author = {Your Name},
+  author = {Mahmoud Osama},
   title = {SecureLink: Machine Learning-Based Phishing URL Detection System},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/securelink}
+  url = {https://github.com/Mahmoud-Ossama/ML-Based-Phishing-URL-Detection-System}
 }
 ```
